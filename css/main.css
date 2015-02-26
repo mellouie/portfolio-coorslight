@@ -1,0 +1,696 @@
+html{
+	background: #000000 url(http://coorslight.ca/clbc/images/bg_tile_clbc.jpg) repeat-x;
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+div#content{
+	border: #999999 solid 4px;
+	width: 911px;
+	height: 100%;
+	position: relative;
+	top: -4px;
+	margin: 0px auto;
+	padding: 0px;
+	text-align: left;
+	background: url(http://coorslight.ca/images/global/main_background.gif);
+}
+
+div#content_banner{
+	background: url(http://coorslight.ca/images/clbc_header_en.jpg); 
+	display: block; 
+	width: 911px; 
+	height: 105px;
+}
+div#content_banner a{
+	display: block;
+	width: 911px;
+	height: 105px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+ul#content_navigation{
+	list-style-type: none;
+	position: relative;
+	width: 911px;
+	height: 28px;
+	margin: 0px;
+	padding: 0px;
+}
+
+li#content_nav1{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 95px;
+	height: 28px;
+	background: url(http://coorslight.ca/images/global/BTN_Home_en.jpg) no-repeat 0 0;
+}
+li#content_nav1 a{
+	display: block;
+	width: 95px;
+	height: 28px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+li#content_nav2{
+	position: absolute;
+	top: 0px;
+	left: 95px;
+	width: 114px;
+	height: 28px;
+	background: url(http://coorslight.ca/images/global/BTN_OurBeer_en.jpg) no-repeat 0 0;
+}
+li#content_nav2 a{
+	display: block;
+	width: 114px;
+	height: 28px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+li#content_nav3{
+	position: absolute;
+	top: 0px;
+	left: 209px;
+	width: 101px;
+	height: 28px;
+	background: url(http://coorslight.ca/images/global/BTN_PartyNow_en.jpg) no-repeat 0 0;
+}
+li#content_nav3 a{
+	display: block;
+	width: 101px;
+	height: 28px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+li#content_nav4{
+	position: absolute;
+	top: 0px;
+	left: 310px;
+	width: 156px;
+	height: 28px;
+	background: url(http://coorslight.ca/images/global/BTN_MediaGallery_en.jpg) no-repeat 0 0;
+}
+li#content_nav4 a{
+	display: block;
+	width: 156px;
+	height: 28px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+li#content_nav5{
+	position: absolute;
+	top: 0px;
+	left: 466px;
+	width: 308px;
+	height: 28px;
+	background: url(http://coorslight.ca/images/global/BTN_clbc_en.jpg) no-repeat 0 0;
+}
+li#content_nav5 a{
+	display: block;
+	width: 308px;
+	height: 28px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+li#content_nav6{
+	position: absolute;
+	top: 0px;
+	left: 774px;
+	width: 137px;
+	height: 28px;
+	background: url(http://coorslight.ca/images/global/BTN_insider_en.jpg) no-repeat 0 0;
+}
+li#content_nav6 a{
+	display: block;
+	width: 137px;
+	height: 28px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#content_main{
+	padding: 0px;
+	margin: 0px;
+}
+
+#line1, #line2{
+	background: url(http://coorslight.ca/images/global/main_footer_space_bar.gif);
+	width: 911px;
+	height: 3px;
+	padding: 0px;
+	margin: 0px;
+	font-size: 1px;
+}
+
+#content_footer{
+	list-style-type: none;
+	position: relative;
+	padding: 0px;
+	background: url(http://coorslight.ca/images/global/main_background.gif);
+	width: 911px;
+	overflow: hidden;
+}
+
+
+
+ul#content_footerads{
+	list-style-type: none;
+	position: relative;
+	width: 911px;
+	height: 74px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+}
+
+
+
+li#content_footerad1, li#content_footerad2, li#content_footerad3{
+	position: absolute;
+	top: 0px;
+	width: 274px;
+	height: 74px;
+}
+
+
+li#content_footerad1{
+	left: 20px;
+	background: url(http://coorslight.ca/images/global/cta/cta_trauma_winter_en.jpg) no-repeat 0 0;
+}
+li#content_footerad2{
+	left: 318px;
+	background: url(http://coorslight.ca/images/global/cta/cta_responsible_en.jpg) no-repeat 0 0;
+}
+li#content_footerad3{
+	left: 616px;
+	background: url(http://coorslight.ca/images/cta/cta_thestew_en.jpg) no-repeat 0 0;
+}
+
+li#content_footerad1 a, li#content_footerad2 a, li#content_footerad3 a{
+	display: block;
+	width: 274px;
+	height: 74px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+div#content_footerlinks ul, div#content_footerlinks li{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	width: 911px;
+	list-style-type: none;
+	display: inline;
+}
+
+#content_footerlinks a:link, #content_footerlinks a:visited, #content_footerlinks a:active{
+	color: #222222;
+}
+
+#content_footerlinks a:hover{
+	color: #000000;
+}
+
+#content_footerlinks{
+	text-align: right;
+	padding: 7px;
+}
+
+select{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+img{
+	border: 0px;
+}
+
+ul, li{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/*  -------------HIGHLIGHT REEL CSS------------------ */
+
+#highlightreel_header{
+	background: url(http://coorslight.ca/highlightreel/images/header_HighLightReel_en.gif) no-repeat; 
+	display: block; 
+	width: 911px; 
+	height: 62px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#highlightreel_main{
+	padding: 20px;
+	height: 500px;
+}
+
+#highlightreel_topphotohead{
+	background: url(http://coorslight.ca/highlightreel/images/header_todaynumber1_en.gif) no-repeat; 
+	display: block; 
+	width: 291px; 
+	height: 35px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#highlightreel_topphotobg{
+	background: url(http://coorslight.ca/highlightreel/images/bg_darkgrade_vert.gif) repeat-x;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 291px;
+	display: block; 
+	overflow: hidden;
+}
+
+#highlightreel_topphoto{
+	width: 242px;
+	height: 156px;
+	border: 4px solid #FFFFFF;
+}
+
+#highlightreel_topphoto a{
+	display: block;
+}
+
+
+#highlightreel_gallery{
+	position: absolute;
+	top: 215px;
+	left: 331px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: center;
+}
+
+#highlightreel_gallerieshead{
+	background: url(http://coorslight.ca/highlightreel/images/header_photogallaries_en.gif) no-repeat;
+	width: 553px;
+	height: 32px;
+	text-indent: -9999px;
+}
+
+#highlightreel_galleries{
+	background: #FFFFFF;
+	border: 1px #000000 solid;
+	width: 551px;
+	height: 205px;
+}
+
+#highlightreel_galleries_dropdowns{
+	padding: 10px;
+	text-align: left;
+	background: #FFFFFF;
+	vertical-align: middle;
+}
+
+#highlightreel_galleries_dropdowns select{
+	position: relative;
+	top: -7px;
+}
+
+#highlightreel_galleries_dropdowns input{
+	position: relative;
+	left: 5px;
+}
+
+div#highlightreel_galleries_events ul, div#highlightreel_galleries_events li{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	width: 551px;
+	list-style-type: none;
+	display: inline;
+	margin: 4px;
+}
+
+#highlightreel_galleries_events{
+	width: 612px;
+	height: 156px;
+	margin: 4px;
+	margin-top: 0px;
+	position: relative;
+	left: -65px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+#highlightreel_galleries_eventsdetails{
+	background: #DADCDF;
+	width: 528px;
+	height: 45px;
+	margin: 4px;
+	position: relative;
+	left: 61px;
+	top: -4px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+#highlightreel_galleries_eventimage{
+	position: relative;
+	left: -45px;
+	top: 7px;
+}
+
+li#highlightreel_galleries_eventdate{
+	width: 20px;
+	position: relative;
+	left: -45px;
+	font-weight: bold; 
+}
+
+#highlightreel_galleries_eventvenue{
+	position: relative;
+	left: -45px;
+}
+
+#highlightreel_galleries_eventcity{
+	position: relative;
+	left: -45px;
+	font-weight: bold;
+}
+
+#highlightreel_galleries_eventview{
+	position: relative;
+	top: 2px;
+	left: 25px;
+}
+
+#highlightreel_topphotosmain{
+	position: absolute;
+	top: 475px;
+	height: 800px;
+	width: 877px;
+}
+
+#highlightreel_topphotoshead{
+	width: 865px;
+	height: 38px;
+	background: #000000;
+	z-index: 3;
+}
+
+#highlightreel_topphotosheadcopy{
+	background: url(http://coorslight.ca/highlightreel/images/header_topratedphoto_en.gif) no-repeat;
+	width: 175px;
+	height: 32px;
+	text-indent: -9999px;
+	z-index: 2;
+	position: relative;
+	top: 3px;
+}
+
+#highlightreel_topphotoslist{
+	width: 691px;
+	height: 38px;
+	text-align: right;
+	position: relative;
+	top: -20px;
+	left: 150px;
+}
+
+#highlightreel_topphotoslist ul, #highlightreel_topphotoslist li{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	list-style-type: none;
+	display: inline;
+	z-index: 1;
+	color: #FFFFFF;
+	text-align: right;
+}
+
+#highlightreel_topphotoslist a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	list-style-type: none;
+	display: inline;
+	color: #FFFFFF;
+	text-align: right;
+}
+
+#highlightreel_topphotos{
+	border: 1px #000000 solid;
+	width: 863px;
+	padding: 0px;
+	padding-bottom: 10px;
+	background: url(http://coorslight.ca/highlightreel/images/background_top_photo.gif) repeat;
+}
+
+#highlightreel_topphotosrow1 ul, #highlightreel_topphotosrow2 ul{
+	width: 865px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#highlightreel_topphotosrow1 li, #highlightreel_topphotosrow2 li{
+	margin: 0px;
+	padding: 5px;
+	list-style-type: none;
+	display: inline;
+	position: relative;
+	left: 10px;
+	right: 10px;
+	top: 15px;
+}
+
+#highlightreel_thumbnail{
+	width: 84px;
+	height: 84px;
+	border: 4px #FFFFFF solid;
+	margin: 0px;
+	padding: 0px;
+}
+
+#highlightreel_thumbnail a{
+	width: 84px;
+	height: 84px;
+	text-decoration: none;
+	overflow: hidden;
+	display: inline;
+}
+
+
+/*  -------------EVENTS CSS------------------ */
+
+#events_header{
+	background: url(http://coorslight.ca/partynow/images/header_partynow_en.jpg) no-repeat; 
+	display: block; 
+	width: 911px; 
+	height: 62px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#events_listing{
+	width: 553px;
+	height: 100%;
+	border: 1px #000000 solid;
+	margin: 20px;
+	background: #FFFFFF;
+}
+
+#events_listing_head{
+	background: url(http://coorslight.ca/partynow/images/header_EventListing_en.gif) no-repeat;
+	display: block; 
+	width: 553px;
+	height: 32px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#events_listing_icons{
+	background: url(http://coorslight.ca/partynow/images/event_legend_en.gif) no-repeat;
+	display: block;
+	width: 553; 
+	height: 38px;
+	text-indent: -9999px;
+	overflow: hidden;
+}
+
+#events_listing_dropdowns{
+	padding: 10px;
+	text-align: left;
+	background: #FFFFFF;
+	vertical-align: middle;
+}
+
+#events_listing_dropdowns select{
+	position: relative;
+	top: -7px;
+}
+
+#events_listing_dropdowns input{
+	position: relative;
+	left: 5px;
+}
+
+.events_listing_eventsdetails{
+	background: #DADCDF;
+	width: 525px;
+	height: 40px;
+	display: block;
+	margin: 4px;
+	position: relative;
+	left: 10px;
+	top: -4px;
+	text-align: left;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 11px;
+	vertical-align: middle;
+}
+
+.events_listing_eventsdetails ul{
+	list-style-type: none;
+}
+
+.events_listing_eventsdetails li{
+	float: left;
+}
+
+.events_listing_eventimage{
+	position: relative; 
+	left: 5px;
+}
+
+.events_listing_eventdate{
+	font-weight: bold;
+	width: 60px;
+	height: 40px;
+	text-align: center;
+	position: relative; 
+	left: 25px;
+}
+
+.events_listing_eventvenue{
+	text-transform: uppercase;
+	width: 170px;
+	position: relative; 
+	left: 55px;
+}
+
+.events_listing_eventview{
+	position: relative; 
+	left: 80px;
+}
+
+.events_listing_eventcity{
+	font-weight: bold;
+	position: relative; 
+	left: 90px;
+}
+
+#events_topphoto{
+	position: absolute;
+	top: 215px;
+	left: 600px;
+}
+
+#events_topphoto_head{
+	background: url(http://coorslight.ca/highlightreel/images/header_todaynumber1_en.gif) no-repeat;
+	display: block; 
+	width: 291px;
+	height: 35px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#events_topphoto_image{
+	background: url(http://coorslight.ca/highlightreel/images/bg_darkgrade_vert.gif) repeat-x;	
+	padding: 20px;
+}
+
+#events_topphoto_image img{
+	width: 242px;
+	height: 156px;
+	border: solid #ffffff 4px;
+	display: block;
+}
+
+#events_topphoto_button{
+	background: url(http://coorslight.ca/highlightreel/images/btn_viewtopratedphoto_en.gif) no-repeat;
+	display: block;
+	width: 178px;
+	height: 24px;
+	position: relative;
+	top: 15px;
+	padding: 10px;
+	left: 35px;
+	text-indent: -9999px;
+}
+
+
+/*  -------------CLBC CSS------------------ */
+
+#clbc_main{
+	background: url(http://coorslight.ca/clbc/images/clbc_mainbg_en.jpg) no-repeat; 
+	display: block; 
+	width: 688px; 
+	height: 302px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#clbc_main_head{
+	background: url(http://coorslight.ca/clbc/images/clbc_mainhead_en.gif) no-repeat;
+	display: block;
+	width: 296px;
+	height: 97px;
+	text-indent: -9999px;
+	position: relative;
+	top: 30px;
+	left: 25px;
+}
+
+#clbc_main_copy{
+	width: 296px;
+	position: relative;
+	top: 50px;
+	left: 25px;
+	font-family: Arial, Helvetica, Sans-Serif; 
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+#clbc_bottom div{
+	position: relative;
+}
+
+#clbc_bottom_trauma{
+	position: relative;
+	float: left;
+}
+
+#clbc_bottom_cards{
+	background: url(http://coorslight.ca/clbc/images/clbc_promo_cards_en.gif) no-repeat;
+	width: 575px;
+	height: 200px;
+	display: block;
+	text-indent: -9999px;
+	float: right;
+	
+}

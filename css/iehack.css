@@ -1,0 +1,11 @@
+div#content{
+	border: #999999 solid 4px;
+	width: 911px;
+	height: 100%;
+	position: relative;
+	top: -4px;
+	margin: 0px -456px;
+	padding: 0px;
+	text-align: left;
+	background: url(http://coorslight.ca/images/global/main_background.gif);
+}
